@@ -39,7 +39,7 @@
 ```env
 DATABASE_URL=postgresql://postgres:DMocDobQDcYDcdxksTGwdzygftLibyln@metro.proxy.rlwy.net:33760/railway
 
-ADMIN_PASSWORD=your_secure_password_123
+ADMIN_PASSWORD=admin123
 
 PORT=3000
 ```

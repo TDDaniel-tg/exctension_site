@@ -1,0 +1,14 @@
+{
+  "name": "wb-extension-license-server",
+  "version": "1.0.0",
+  "description": "License server for WB Extension",
+  "main": "license-backend/server.js",
+  "scripts": {
+    "start": "cd license-backend && npm install && npm start",
+    "postinstall": "cd license-backend && npm install"
+  },
+  "engines": {
+    "node": ">=16.x"
+  }
+}
+
